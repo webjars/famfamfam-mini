@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>famfamfam-mini</artifactId>
-    <version>0.0-SNAPSHOT</version>
+    <version>0.0</version>
     <name>famfamfam.com Mini</name>
     <description>WebJar for famfamfam.com Mini</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/famfamfam-mini</url>
         <connection>scm:git:https://github.com/webjars/famfamfam-mini.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/famfamfam-mini.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>famfamfam-mini-0.0</tag>
     </scm>
 
     <developers>
